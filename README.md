@@ -2,7 +2,7 @@
 A customized SLAM-seq analysis pipeline
 
 ## Pipeline scripts
-run_full_pipeline.sh # a bash script to run the main pipeline
+run_full_pipeline.sh # a bash script to run the main pipeline  
 vcf2reads.pl # an auxiliary Perl script 
 
 ## Pipeline Description
